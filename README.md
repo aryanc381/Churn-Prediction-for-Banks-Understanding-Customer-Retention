@@ -1,5 +1,5 @@
 # Customer Churn Prediction
-
+![Churn](https://github.com/aryanc381/Churn-Prediction-for-Banks-Understanding-Customer-Retention/blob/main/pic.png)
 ## Overview
 Customer churn prediction is crucial for businesses, especially banks, to identify clients likely to leave the organization. This project employs machine learning techniques to predict customer churn using a deep learning model. The dataset, preprocessing steps, and neural network architecture are detailed below.
 
